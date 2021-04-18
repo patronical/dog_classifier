@@ -71,38 +71,36 @@ This is a Convolutional Neural Network project with a simple Web App deployment.
 To launch the web app:
 
 a. open an Anaconda Comand prompt.
+
 b. navigate to directory of project,
    cd C:\users\user\desktop\dog_classifier
+   
 c. activate the environment,
    conda activate tfdogs
+   
 d. launch the web app,
    voila dog_breed_classifier_r1.ipynb
+   
 e. after finished close web browser.
-f. exit the anaconda prompt
-   Ctrl^C to shut down webserver
+
+f. exit the anaconda prompt, 
+   Ctrl^C to shut down webserver, 
    Close prompt window.
    
-To interact with the app:
-
-A. Follow instructions within the app.
+To interact with the app: Follow instructions within the app.
 
 #### 5. **Licensing, Acknowledgments**
 
 A. References:
 
- Yahoo Finance Downloads to CSV files for imports:
+Udacity Dog Breed Rubric
+https://review.udacity.com/#!/rubrics/810/view
 
- <https://finance.yahoo.com/quote/IBM/history>
+Udacity Data Science Rubric
+https://review.udacity.com/#!/rubrics/2345/view
 
- <https://finance.yahoo.com/quote/%5EGSPC/history>
-
- Hyperparameter Tuning the Random Forest in Python
-
- <https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74>         
-
- CRISP-DM Reference Model
-
- <https://www.spss.ch/upload/1109179904_CRISP-DM%20Process%20Model.pdf>
+Deep Residual Learning for Image Recognition
+https://arxiv.org/pdf/1512.03385.pdf
 
 B. License, <https://opensource.org/licenses/MIT>
 
