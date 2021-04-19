@@ -38,6 +38,12 @@ https://storage.googleapis.com/tensorflow/keras-applications/resnet/resnet50_wei
 
 https://storage.googleapis.com/tensorflow/keras-applications/resnet/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
 
+"download bottleneck features too big to put on github, and move to bottleneck_features directory."
+
+https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
+
+https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
+
 "git clone this repository as needed."
 
 #### 2. **Project Motivation**
